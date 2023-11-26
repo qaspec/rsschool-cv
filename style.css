@@ -1,0 +1,7 @@
+#myAvatar {
+    border-radius: 25px;
+    width: 180px;
+    height: 150px;
+    border: solid 2px rgb(177, 229, 243);
+    padding: 2px;
+}
